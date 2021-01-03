@@ -18,4 +18,5 @@ El mísmo cuenta con áreas que pueden resolver ciertos tipos de documentos, los
 
 * Se desarrollo como trabajo final para la materia "Programación avanzada II" de la carrera de ing. Informática.
 * Se desarrollo para aprendizaje de Java
+* Se desarrollo en el IDE [NetBeans](https://netbeans.org/)
 * Se ejecutó con una base de datos MySQL
