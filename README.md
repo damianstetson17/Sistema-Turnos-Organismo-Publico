@@ -1,6 +1,6 @@
 # Sistema de turnos en Java
 ## ¿Qué hace?
-Sistema de turnos que perite:
+Sistema de turnos que permite:
 * Registrar cliente.
 * Registrar Empleados.
 * Registrar Supervisores.
